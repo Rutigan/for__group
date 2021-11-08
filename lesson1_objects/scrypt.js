@@ -13,5 +13,6 @@ document.addEventListener('DOMContentLoaded', () => {
     })
   })
   
+  console.log('all working...');
 
 })
